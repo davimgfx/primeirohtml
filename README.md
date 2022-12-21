@@ -1,2 +1,2 @@
 # primeirohtml
-Meu primeiro código HTML
+Meu primeiro código HTML, uma simulação de currículo utilizando diversas tags no HTML
